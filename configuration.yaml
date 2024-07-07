@@ -1,0 +1,103 @@
+projects:
+  - name: "ITAL GUARD ⛓️"
+    period: "May 2024"
+    description: |
+      Project that seamlessly integrated blockchain technology, NFTs, and Spring Boot framework.\nDetails cannot yet be released.
+    technologies:
+      - Blockchain
+      - NFT
+      - Spring Boot
+    github: ""
+    live_demo: ""
+    image_path: "/blockchain.jpg"
+    image_left: true
+
+  - name: "PORTFOLIO 💻"
+    period: "September 2023"
+    description: |
+      Personal portfolio written in Python using Reflex framework.
+    technologies:
+      - Python
+      - Reflex
+      - Vercel
+    github: "https://github.com/Davydhh/MyPortfolio"
+    live_demo: ""
+    image_path: "/portfolio.jpg"
+    image_left: false
+
+  - name: "WORKOUT TRACKER 🏋🏻"
+    period: "July 2022"
+    description: |
+      WorkoutTracker is a Fitness App that uses Augmented Reality and Computer Vision to track repetitions of exercises for you. It also memorizes the order of exercises and provides reminders for the next exercise.
+    technologies:
+      - iOS
+      - Swift
+      - SwiftUI
+    github: "https://github.com/Davydhh/WorkoutTracker"
+    live_demo: "https://youtube.com/shorts/pQXOGQ_unDc?si=jk1EsxEdMWbwd8kX"
+    image_path: "/workout.jpg"
+    image_left: true
+
+  - name: "COVID-19 TRACKER 🦠"
+    period: "February 2020"
+    description: |
+      My COVID-19 Tracker Android app provides real-time information about the spread of COVID-19 in Italy. The app offers data at the national, regional, and city levels, allowing users to stay informed about the latest statistics and trends.
+    technologies:
+      - Android
+      - Java
+    github: "https://github.com/Davydhh/Covid-19"
+    live_demo: "https://youtu.be/pNddCViY9oI?si=uyznrarIsA_7Zcmj"
+    image_path: "/covid.jpg"
+    image_left: false
+
+content_page:
+  card_titles:
+    - Software Engineer
+    - Microservices Developer
+    - Java Developer
+  short_description: "A dedicated Backend Engineer based in Milan, Italy 📍"
+  medium_description: "I'm a Backend Software Engineer at Intesa Sanpaolo experienced in Java, Python, Microservices, and Cloud Computing. I love making side projects and exploring the latest cutting-edge technologies. For instance, I've recently delved into LLM, investigating its potential optimizations through methods like RAG and RAFT."
+  about_me: "ABOUT ME"
+  tech_stack: "Tech Stack"
+  hello: "Hi - I'm Davide"
+  projects: "PROJECTS"
+  projects_introduction: "iOS App | Android App | Portfolio Website | Blockchain Project 🚀"
+  publications: "PUBLICATIONS"
+  contact: "CONTACT"
+  contact_description: "Hit me up! 👇"
+
+contacts:
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/davide-cazzetta-3a86a9198"
+    image_path: "/linkedin.jpg"
+  - name: "GitHub"
+    link: "https://github.com/Davydhh"
+    image_path: "/github.jpg"
+
+contact_block:
+  - name: "Mail"
+    link: "davidepro@hotmail.it"
+    image_path: "/mail.svg"
+  - name: "Location"
+    link: "Milan, Italy"
+    image_path: "/location.svg"
+
+footer:
+  copyright: "Copyright © 2023. All rights reserved"
+
+header:
+  buttons:
+    - title: "Home"
+      href: "/"
+    - title: "About"
+      href: "/about"
+    - title: "Projects"
+      href: "/projects"
+    - title: "Contact"
+      href: "/contact"
+  title: "Davide.dev"
+
+publication:
+  title: "Advanced IoT Edge Architecture for Smart City"
+  link: "https://youtu.be/pNddCViY9oI?si=uyznrarIsA_7Zcmj"
+  abstract: "In the last few years, terms like Internet of Things, Cloud Computing and Edge Computing have captured a lot of attention from both scientific and industrial perspectives. They are independent but closely related concepts, and their use extends into several scenarios, such as Smart Agriculture, Smart Home, autonomous vehicles, and Smart City, to name but a few. Among the Smart City solutions, Smart Parking aims to solve the problem of parking space and parking management in big cities, since the search for free parking spaces brings along a serious cost, air pollution and stress issues. The objective of this article is to propose an Edge Computing architecture tailored for Smart Parking solutions, addressing the challenges of real-time data processing and efficient parking management. This architecture integrates a Deep Learning solution based on Gated Recurrent Units (GRU) to accurately forecast the number of available and occupied parking spaces."
